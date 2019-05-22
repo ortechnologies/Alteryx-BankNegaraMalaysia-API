@@ -1,6 +1,6 @@
 # Alteryx-BankNegaraMalaysia-API
 
-[BNM Open API](/images/bnm.api.png)
+![BNM Open API](/images/bnm.api.png)
 
 This repo contains Alteryx *workflows* to connect to Bank Negara Malaysia (BNM) Open API @ https://api.bnm.gov.my. 
 
